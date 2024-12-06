@@ -1,3 +1,10 @@
 streamlit==1.24.0
 google-generativeai==0.1.0
 python-dotenv==0.19.0
+altair>=4.0,<6
+numpy==1.26.4
+pandas<3,>=0.25
+protobuf<5,>=3.20
+tzlocal<5,>=1.1
+grpcio-status<2.0,>=1.33.2
+
